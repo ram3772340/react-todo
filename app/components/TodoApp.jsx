@@ -9,3 +9,5 @@ var TodpApp = React.createClass({
     );
   }
 });
+
+module.exports = TodpApp;
